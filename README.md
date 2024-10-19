@@ -3,3 +3,4 @@
 ## Practice Project for Python
 
 - Dice Rolling Game
+- Number Guessing Game
