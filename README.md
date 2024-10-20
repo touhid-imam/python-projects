@@ -4,3 +4,4 @@
 
 - Dice Rolling Game
 - Number Guessing Game
+- Rock Paper Scissor
